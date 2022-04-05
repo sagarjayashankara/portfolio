@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -6,7 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          2nd deployment
+          2nd deployment cleared error
         </p>
       </header>
     </div>
